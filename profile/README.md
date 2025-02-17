@@ -1,7 +1,6 @@
 # PlantWisdom AI 🌱🤖
-A machine learning-powered platform for analyzing plant wisdom and botanical knowledge.
+An AI powered Pharma optimizer.
 
 ## Features
-- 🌍 AI-powered plant knowledge base
+- 🌍 AI-powered knowledge base
 - 📊 Data processing and analysis
-- 🔗 Integration with SharePoint for documentation storage
