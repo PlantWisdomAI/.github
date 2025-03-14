@@ -5,4 +5,3 @@ An AI powered Pharma optimizer.
 - 🌍 AI-powered knowledge base
 - 📊 Data processing and analysis
 
-testt
