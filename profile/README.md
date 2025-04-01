@@ -2,11 +2,9 @@
 
 Welcome to **Plant Wisdom AI’s GitHub**! We specialize in delivering intelligent solutions for the pharmaceutical industry, blending cutting-edge data science, machine learning, and industry expertise to help pharma companies optimize processes and drive innovation. Our current focus is on:
 
-- **Data Management Bot**  
+**Data Management Bot**  
   Integrated with Microsoft 365 (SharePoint, Excel, and more) to streamline data handling and workflows.
 
-- **Calibration Bot**  
-  Automates and optimizes calibration processes, ensuring accuracy and compliance in pharma settings.
 
 ---
 
@@ -25,13 +23,6 @@ We believe in harnessing the power of AI to transform pharmaceutical operations,
      - Intelligent validation to maintain data integrity  
      - Compliance-ready for pharma regulations (e.g., FDA, EMA)  
      - Centralized dashboards for streamlined oversight and collaboration  
-
-2. **Calibration Bot**  
-   - **Description:** An AI-driven tool that monitors and calibrates equipment used in pharmaceutical processes.  
-   - **Key Features:**  
-     - Predictive maintenance alerts  
-     - Calibration scheduling and tracking  
-     - Detailed reporting to aid regulatory audits  
 
 ---
 
